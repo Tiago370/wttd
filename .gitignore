@@ -1,0 +1,5 @@
+.wttd
+eventex/core/static/
+eventex/__pycache__/
+eventex/core/__pycache__/
+subscription/__pycache__/
