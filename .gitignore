@@ -2,4 +2,4 @@
 eventex/core/static/
 eventex/__pycache__/
 eventex/core/__pycache__/
-subscription/__pycache__/
+eventex/subscriptions/__pycache__/
