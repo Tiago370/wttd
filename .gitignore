@@ -3,3 +3,4 @@ eventex/core/static/
 eventex/__pycache__/
 eventex/core/__pycache__/
 eventex/subscriptions/__pycache__/
+db.sqlite3
